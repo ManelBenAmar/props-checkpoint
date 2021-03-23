@@ -1,0 +1,21 @@
+.profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+header {
+
+    height: 2cm;
+    background-color: aqua;
+}
+footer {
+
+    height: 2cm;
+    background-color: aqua;
+}
+h2 {
+    color:crimson
+}
+h4 {
+    color:blue
+}
